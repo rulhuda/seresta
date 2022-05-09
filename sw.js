@@ -1,14 +1,18 @@
 var serviceWorkerOption = {
   "assets": [
-    "/0.bundle.js",
-    "/1.bundle.js",
-    "/2.bundle.js",
-    "/3.bundle.js",
-    "/4.bundle.js",
-    "/5.bundle.js",
-    "/bundle.js",
+    "/defaultVendors~main~197c5f8d.bundle.js",
+    "/defaultVendors~main~513157d2.bundle.js",
+    "/defaultVendors~main~5ad74e91.bundle.js",
+    "/defaultVendors~main~d939e436.bundle.js",
+    "/defaultVendors~main~ec8c427e.bundle.js",
+    "/defaultVendors~main~f9ca8911.bundle.js",
+    "/main~29d6ecf2.bundle.js",
     "/favicon.png",
     "/manifest.json",
+    "/images/heros/hero-image-restaurant.jpg",
+    "/images/build-heros/hero-image-restaurant-lg.jpg",
+    "/images/build-heros/hero-image-restaurant-md.jpg",
+    "/images/build-heros/hero-image-restaurant-sm.jpg",
     "/images/icons/icon-128x128.png",
     "/images/icons/icon-144x144.png",
     "/images/icons/icon-152x152.png",
@@ -17,7 +21,6 @@ var serviceWorkerOption = {
     "/images/icons/icon-512x512.png",
     "/images/icons/icon-72x72.png",
     "/images/icons/icon-96x96.png",
-    "/images/heros/hero-image-restaurant.jpg",
     "/index.html"
   ]
 };
